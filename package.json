@@ -1,6 +1,6 @@
 {
 	"name": "@jellify-music/audiomuse-ai-jellyfin-sdk",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Typed client for the AudioMuse AI endpoints exposed by its Jellyfin plugin, built on @jellyfin/sdk",
 	"keywords": [
 		"jellyfin",
